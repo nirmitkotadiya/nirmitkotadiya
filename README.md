@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 
 ## 💫 About Me
 
-I'm a passionate Computer Science Engineer based in Ahmedabad, with a strong background in Web Development. I thrive on creating innovative solutions and enjoy diving deep into new technologies.
-
 ![Graphic](https://img.shields.io/badge/Passionate-Engineer-blue?style=for-the-badge)
 
 Hello! I'm **Nirmit Kotadiya**, a passionate **Computer Science Engineer** based in **Ahmedabad**. With a strong background in **Web Development**, I thrive on creating **innovative solutions**.
@@ -63,7 +61,6 @@ Hello! I'm **Nirmit Kotadiya**, a passionate **Computer Science Engineer** based
 
 ## 🎓 Education
 
-## Education
 
 | **Degree**                               | **Location**         | **Graduation Year** | **Institution**                            | **Details**           |
 |-------------------------------------------|---------------------|---------------------|--------------------------------------------|------------------------|
@@ -120,11 +117,20 @@ Hello! I'm **Nirmit Kotadiya**, a passionate **Computer Science Engineer** based
 
 ## 🔝 Most Used Languages
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirmitkotadiya&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirmitkotadiya&layout=compact)
 
 ## 🏆 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirmitkotadiya&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirmitkotadiya&show_icons=true)
+
+## ⌛ GitHub Most Used Packages 
+[![nirmitkotadiya's GitHub | Dependencies](https://stats.quine.sh/nirmitkotadiya/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=nirmitkotadiya)
+
+## ⌛ GitHub Languages Over Time
+[![nirmitkotadiya's GitHub | Languages Over Time](https://stats.quine.sh/nirmitkotadiya/languages-over-time?theme=dark)](https://quine.sh)
+
+## ⌛ GitHub Topic Over Time
+[![nirmitkotadiya's GitHub | Topics Over Time](https://stats.quine.sh/nirmitkotadiya/topics-over-time?theme=dark)](https://quine.sh)
 
 ### 🔝 Contributions
     
