@@ -113,24 +113,24 @@ Hello! I'm **Nirmit Kotadiya**, a passionate **Computer Science Engineer** based
 
 ## 🔝 Contributions
 
-![Top Contributions](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nirmitkotadiya&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nirmitkotadiya&theme=default)
 
 ## 🔝 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirmitkotadiya&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nirmitkotadiya&layout=compact)
 
 ## 🏆 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirmitkotadiya&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=nirmitkotadiya&show_icons=true)
 
 ## ⌛ GitHub Most Used Packages 
-[![nirmitkotadiya's GitHub | Dependencies](https://stats.quine.sh/nirmitkotadiya/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=nirmitkotadiya)
+[![](https://stats.quine.sh/nirmitkotadiya/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=nirmitkotadiya)
 
 ## ⌛ GitHub Languages Over Time
-[![nirmitkotadiya's GitHub | Languages Over Time](https://stats.quine.sh/nirmitkotadiya/languages-over-time?theme=dark)](https://quine.sh)
+[![](https://stats.quine.sh/nirmitkotadiya/languages-over-time?theme=dark)](https://quine.sh)
 
 ## ⌛ GitHub Topic Over Time
-[![nirmitkotadiya's GitHub | Topics Over Time](https://stats.quine.sh/nirmitkotadiya/topics-over-time?theme=dark)](https://quine.sh)
+[![](https://stats.quine.sh/nirmitkotadiya/topics-over-time?theme=dark)](https://quine.sh)
 
 ### 🔝 Contributions
     
