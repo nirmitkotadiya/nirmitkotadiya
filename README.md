@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Profile](https://img.shields.io/badge/Profile-Nirmit%20Kotadiya-blue?style=for-the-badge)
 -->
 
 
@@ -24,8 +26,6 @@ Here are some ideas to get you started:
 I'm a passionate Computer Science Engineer based in Ahmedabad, with a strong background in Web Development. I thrive on creating innovative solutions and enjoy diving deep into new technologies.
 
 ![Graphic](https://img.shields.io/badge/Passionate-Engineer-blue?style=for-the-badge)
- 
-![Profile](https://img.shields.io/badge/Profile-Nirmit%20Kotadiya-blue?style=for-the-badge)
 
 Hello! I'm **Nirmit Kotadiya**, a passionate **Computer Science Engineer** based in **Ahmedabad**. With a strong background in **Web Development**, I thrive on creating **innovative solutions**.
 
