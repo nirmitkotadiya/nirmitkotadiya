@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Nirmit Kotadiya</h1>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=1000&height=45&lines=A+passionate+MERN-STACK+Developer+and+Programmer+from+India.;Always+Learning+New+Things;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=1000&height=45&lines=A+Passionate+Full+Stack+Developer+and+Programmer+from+India.;Expert+in+Modern+Web+Technologies+and+Frameworks.;Proficient+in+Building+Scalable+Web+Applications.;Always+Learning+and+Adapting+to+New+Technologies.;Empowering+Others+through+Knowledge+Sharing.;Nice+To+Meet+You+...&center=true"></a>
 </p>
+
+
 
 ## 💫 About Me
 
