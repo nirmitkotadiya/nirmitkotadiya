@@ -123,13 +123,13 @@ Hello! I'm **Nirmit Kotadiya**, a passionate **Computer Science Engineer** based
 
 ![](https://github-readme-stats.vercel.app/api?username=nirmitkotadiya&show_icons=true)
 
-## ⌛ GitHub Most Used Packages 
+<!-- ## ⌛ GitHub Most Used Packages --> 
 [![](https://stats.quine.sh/nirmitkotadiya/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=nirmitkotadiya)
 
-## ⌛ GitHub Languages Over Time
+<!--  ## ⌛ GitHub Languages Over Time --> 
 [![](https://stats.quine.sh/nirmitkotadiya/languages-over-time?theme=dark)](https://quine.sh)
 
-## ⌛ GitHub Topic Over Time
+<!--  ## ⌛ GitHub Topic Over Time --> 
 [![](https://stats.quine.sh/nirmitkotadiya/topics-over-time?theme=dark)](https://quine.sh)
 
 ### 🔝 Contributions
