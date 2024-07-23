@@ -47,7 +47,7 @@ Hello! I'm **Nirmit Kotadiya**, a passionate **Computer Science Engineer** based
 - Fostered collaboration and effective communication within the team.
 
 
-### Web Developer | Codage Habitation
+<!-- ### Web Developer | Codage Habitation
 ![Codage Habitation](https://img.shields.io/badge/Codage-Habitation-blue?style=for-the-badge)
 
 **Duration:** November 2023 – May 2024  
@@ -57,7 +57,7 @@ Hello! I'm **Nirmit Kotadiya**, a passionate **Computer Science Engineer** based
 - Led a team specializing in front-end development using **JavaScript, TypeScript, ReactJS, and NextJS** to create responsive websites.
 - Managed back-end tasks using CMS platforms like **Sanity**.
 - Ensured code quality and oversaw project management with version control systems like **Git**.
-- Fostered collaboration and effective communication within the team.
+- Fostered collaboration and effective communication within the team. -->
 
 ## 🎓 Education
 
