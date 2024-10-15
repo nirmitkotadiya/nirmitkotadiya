@@ -92,6 +92,39 @@ Hello! I'm **Nirmit Kotadiya**, a passionate **Computer Science Engineer** based
 **Institution:** Noble World School – Rajula  
 **Percentage:** 83.33%
 
+## 🏆 Certificates
+
+- **[C for Everyone: Programming Fundamentals](https://coursera.org/share/2eace4bcc74fa5ba78202b1ea9f44cf7)**  
+  Issued by University of California, Santa Cruz - *Feb 2022*
+
+- **[Data Structures](https://coursera.org/share/c434e14f645c8343b176e581c0de7c1b)**  
+  Issued by University of California San Diego - *Jun 2022*
+
+- **[HTML, CSS, and Javascript for Web Developers](https://coursera.org/share/acb9baa371cb08836a227b2eb6e70330)**  
+  Issued by Johns Hopkins University - *Jan 2023*
+
+- **[Exploratory Data Analysis for Machine Learning](https://coursera.org/share/68a6f6c2c348cde47c6f25c0614e1b60)**  
+  Issued by IBM - *Jul 2023*
+
+- **[Codekaze - June'23](https://ninjasfiles.s3.amazonaws.com/certificate_of_event_codekaze_-_june_23_round_1_c1f96265bcddf9465bd8.pdf)**  
+  Issued by Coding Ninjas - *Jul 2023*
+
+- **[Codekaze-Sep'23](https://ninjasfiles.s3.amazonaws.com/certificate_of_event_codekaze-sep_23_round_1_naukri_engineers_week_4e5e89de47a8bb2361a3.pdf)**  
+  Issued by Coding Ninjas - *Oct 2023*
+  
+- **[Algorithmic Thinking (Part 1)](https://coursera.org/share/7fadcf9fe0755ab576e5b612531ccc4f)**  
+  Issued by Rice University - *Dec 2023*
+
+- **[Algorithmic Thinking (Part 2)](https://coursera.org/share/ada86de4aa044c581d7bb87bed1555ca)**  
+  Issued by Rice University - *Dec 2023*
+  
+- **[Building Generative AI-Powered Applications with Python](https://coursera.org/share/0e9e0915d76e2e9c47c1c66db684e029)**  
+  Issued by IBM - *Oct 2024*
+
+
+You can find more details about my certifications and qualifications on my [LinkedIn profile](https://www.linkedin.com/in/nirmitkotadiya).
+
+
 
 ## 🌐 Socials
 
