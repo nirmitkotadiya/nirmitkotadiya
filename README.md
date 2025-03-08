@@ -36,11 +36,11 @@ Hello! I'm **Nirmit Kotadiya**, a passionate **Computer Science Engineer** based
 
 ## 💼 Professional Experience
 
-| **Position**          | Web Developer                                              |
-|-----------------------|------------------------------------------------------------|
-| **Company**           | ![Codage Habitation](https://img.shields.io/badge/Codage-Habitation-blue?style=for-the-badge) |
-| **Duration**          | November 2023 – May 2024                                   |
-| **Location**          | On-Site, Ahmedabad                                         |
+| **Position**          | Web Developer                                              | MERN Developer                                              |
+|-----------------------|------------------------------------------------------------|-------------------------------------------------------------|
+| **Company**           | ![Codage Habitation](https://img.shields.io/badge/Codage-Habitation-blue?style=for-the-badge) | ![Krishang Technolab](https://img.shields.io/badge/Krishang-Technolab-blue?style=for-the-badge) |
+| **Duration**          | November 2023 – May 2024                                   | December 2024 – Present                                   |
+| **Location**          | On-Site, Ahmedabad                                         | On-Site, Ahmedabad                                        |
 
 ### Responsibilities:
 - Led a team specializing in front-end development using **JavaScript, TypeScript, ReactJS, and NextJS** to create responsive websites.
