@@ -121,6 +121,15 @@ Hello! I'm **Nirmit Kotadiya**, a passionate **Computer Science Engineer** based
 - **[Building Generative AI-Powered Applications with Python](https://coursera.org/share/0e9e0915d76e2e9c47c1c66db684e029)**  
   Issued by IBM - *Oct 2024*
 
+- **[Back-End Development with .NET](https://coursera.org/share/412c4f0d0f3f69e05bb48abb82e1de35)**  
+  Issued by Microsoft - *Apr 2025*
+
+- **[CSS And JavaScript Complete Course For Beginners](https://www.udemy.com/certificate/UC-4299f619-2d55-492b-aac5-03021eac7cde)**  
+  Issued by PROPER DOT INSTITUTE - *Feb 2025*
+
+- **[JavaScript Fundamentals: A Course for Absolute Beginners](https://www.udemy.com/certificate/UC-a56f1dc1-ca0c-4092-b05d-92707e35048a)**  
+  Issued by Learnsector LLP - *Apr 2025*
+
 
 You can find more details about my certifications and qualifications on my [LinkedIn profile](https://www.linkedin.com/in/nirmitkotadiya).
 
