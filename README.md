@@ -176,6 +176,9 @@ You can find more details about my certifications and qualifications on my [Link
 <!--  ## ⌛ GitHub Topic Over Time --> 
 [![](https://stats.quine.sh/nirmitkotadiya/topics-over-time?theme=dark)](https://quine.sh)
 
+## ⌛ Github Commit Graph
+<a href="http://www.github.com/nirmitkotadiya"><img src="https://github-readme-activity-graph.vercel.app/graph?username=nirmitkotadiya&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=70a5fd&area_color=1a1b27&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 ### 🔝 Contributions
     
 <div align="center">
